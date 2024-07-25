@@ -24,7 +24,7 @@
 ![Project 1 Image](link_to_image)
 ![Project 2 Image](link_to_image)
 
-## Our Vision
+## 🎯 Our Vision
 - **Pioneering Security Solutions for a World Powered by AI:** We delve into cutting-edge research, developing robust and innovative security mechanisms for AI systems, ensuring their integrity, reliability, and resilience.
 
 - **Fostering Collaboration and Knowledge Exchange:** We actively engage in the broader research community, fostering open communication and sharing our findings to accelerate advancements in the field.
