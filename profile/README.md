@@ -20,20 +20,23 @@
 [Add descreption]
 [Link to the project](#)
 
-## 📫 Reach us 
-This GitHub account serves as a hub for our ongoing projects, publications, and collaborations. We welcome your engagement and encourage you to explore the exciting frontiers of AI security with us!
-[here](https://miamioh.edu/profiles/cec/samer-khamaiseh.html)
-
 ## 📸 Gallery
 ![Project 1 Image](link_to_image)
 ![Project 2 Image](link_to_image)
 
-
-
-## Our Mission
+## Our Vision
 - **Pioneering Security Solutions for a World Powered by AI:** We delve into cutting-edge research, developing robust and innovative security mechanisms for AI systems, ensuring their integrity, reliability, and resilience.
 
 - **Fostering Collaboration and Knowledge Exchange:** We actively engage in the broader research community, fostering open communication and sharing our findings to accelerate advancements in the field.
 
 - **Cultivating the Next Generation of AI Security Experts:** We are committed to mentoring and training the next generation of researchers and practitioners, equipping them with the expertise and skills necessary to safeguard the future of AI.
+
+
+## 📫 Reach us 
+This GitHub account serves as a hub for our ongoing projects, publications, and collaborations. We welcome your engagement and encourage you to explore the exciting frontiers of AI security with us!
+[Contact us here](https://miamioh.edu/profiles/cec/samer-khamaiseh.html)
+
+
+
+
 
