@@ -3,11 +3,11 @@
  **LAiSR is a dynamic research group at Miami University, Ohio, led by the visionary Dr. Samer Khamaiseh. We are passionately dedicated to exploring and addressing the evolving challenges within the realm of AI security**.
  
 # 👥 Our Team
-- **Dr. Samer Khamaiseh**
-- **Deirdre Jost**
-- **Steven Chiacchira**
-- **Aibak Aljadayah**
-- **Azib Farooq**
+- **Dr. Samer Khamaiseh** - Projects Director
+- **Deirdre Jost** - Research Assistant
+- **Steven Chiacchira** - Research Assistant
+- **Aibak Aljadayah** - Research Assistant
+- **Azib Farooq** - Research Assistant
 # 🚀 Projects
 ### Fool-X
 [Add descreption]
