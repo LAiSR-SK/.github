@@ -6,7 +6,7 @@
 - **Dr. Samer Khamaiseh** - Projects Director
 - **Deirdre Jost** - Research Assistant
 - **Steven Chiacchira** - Research Assistant
-- **Aibak Aljadayah** - Research Assistant
+- **Aibak Aljadayah** - Research Assistant(https://www.linkedin.com/in/aibak-aljadayah-160959222/)
 - **Azib Farooq** - Research Assistant
 # 🚀 Projects
 ### Fool-X
