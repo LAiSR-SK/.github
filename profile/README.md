@@ -1,7 +1,7 @@
 # [AI Security Research Lab at Miami University](https://miamioh.edu/profiles/cec/samer-khamaiseh.html)
 **Welcome to the official GitHub repository of Laboratory of AI Security Research(LAiSR) at Miami University of Ohio.**
 - Here, we explore cutting-edge research in AI security.
-- LAiSR is a dynamic research group at Miami University, Ohio, led by the visionary Dr. Samer Khamaiseh. We are passionately dedicated to exploring and addressing the evolving challenges within the realm of AI security.
+- LAiSR is a dynamic research group at Miami University, Ohio, led by the Dr. Samer Khamaiseh. We are passionately dedicated to exploring and addressing the evolving challenges within the realm of AI security.
  
 # 👥 Our Team
 - [**Dr. Samer Khamaiseh** - Director of LAiSR Research Group](https://www.linkedin.com/in/samer-khamaiseh/)
