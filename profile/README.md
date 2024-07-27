@@ -1,4 +1,4 @@
-# [AI Security Research Lab at Miami University](https://miamioh.edu/profiles/cec/samer-khamaiseh.html)
+![image](https://github.com/user-attachments/assets/e258ad24-2101-4e2d-85a3-dbabe5a39e21)# [AI Security Research Lab at Miami University](https://miamioh.edu/profiles/cec/samer-khamaiseh.html)
 **Welcome to the official GitHub repository of the Laboratory of AI Security Research(LAiSR) group at Miami University.**
 - Here, we explore cutting-edge research in AI security.
 - LAiSR is a dynamic research group led by Dr. Samer Khamaiseh. We are passionately dedicated to exploring and addressing the evolving challenges within the realm of AI security.
@@ -26,9 +26,15 @@
 [Add descreption]
 [Link to the project](#)
 
+![image](https://github.com/user-attachments/assets/4ba8d1d0-b732-4747-b661-1c281e240ff6)
+
 ## 📸 Gallery
-![Target-X](![image](https://github.com/user-attachments/assets/8cc7d6a2-8fb1-41fe-bd91-931bdf118590))
-![Project 2 Image](link_to_image)
+<p float="left">
+  <img src="https://github.com/user-attachments/assets/4ba8d1d0-b732-4747-b661-1c281e240ff6" width="100" />
+  <img src="https://github.com/user-attachments/assets/4ba8d1d0-b732-4747-b661-1c281e240ff6" width="100" /> 
+  <img src="https://github.com/user-attachments/assets/4ba8d1d0-b732-4747-b661-1c281e240ff6" width="100" />
+</p>
+
 
 ## 🎯 Our Vision
 - **Pioneering Security Solutions for a World Powered by AI:** We delve into cutting-edge research, developing robust and innovative security mechanisms for AI systems, ensuring their integrity, reliability, and resilience.
