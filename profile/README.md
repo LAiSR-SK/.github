@@ -2,7 +2,9 @@
 **Welcome to the official GitHub repository of the Laboratory of AI Security Research(LAiSR) group at Miami University.**
 - Here, we explore cutting-edge research in AI security.
 - LAiSR is a dynamic research group led by Dr. Samer Khamaiseh. We are passionately dedicated to exploring and addressing the evolving challenges within the realm of AI security.
- 
+- 
+![logo for the repo](https://github.com/user-attachments/assets/f6b45758-449b-455d-9c53-c418089b252c)
+
 # 👥 Our Team
 - [**Dr. Samer Khamaiseh** - Director of LAiSR Research Group](https://www.linkedin.com/in/samer-khamaiseh/)
 - [**Deirdre Jost** - Research Assistant](https://www.linkedin.com/in/deirdre-jost-445822228/)
@@ -22,7 +24,7 @@
 [Link to the project](#)
 
 ## 📸 Gallery
-![Project 1 Image](link_to_image)
+![Target-X](![image](https://github.com/user-attachments/assets/8cc7d6a2-8fb1-41fe-bd91-931bdf118590))
 ![Project 2 Image](link_to_image)
 
 ## 🎯 Our Vision
