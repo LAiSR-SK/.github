@@ -23,7 +23,8 @@
 [Add descreption]
 [Link to the project](#)
 ### target-X
-[Add descreption](#)
+[Add descreption]
+[link to the project](https://github.com/LAiSR-SK/target-x)
 ### ADT++
 A novel method for adversarial training.
 ### VariousAttacks
