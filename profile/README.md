@@ -30,9 +30,7 @@
 
 ## 📸 Gallery
 <p float="left">
-  <img src="https://github.com/user-attachments/assets/4ba8d1d0-b732-4747-b661-1c281e240ff6" width="100" />
-  <img src="https://github.com/user-attachments/assets/4ba8d1d0-b732-4747-b661-1c281e240ff6" width="100" /> 
-  <img src="https://github.com/user-attachments/assets/4ba8d1d0-b732-4747-b661-1c281e240ff6" width="100" />
+  <img src="https://github.com/user-attachments/assets/4ba8d1d0-b732-4747-b661-1c281e240ff6" width="224" />
 </p>
 
 
