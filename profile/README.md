@@ -6,6 +6,7 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/f6b45758-449b-455d-9c53-c418089b252c" />
 </p>
+
 # 👥 Our Team
 - [**Dr. Samer Khamaiseh** - Director of LAiSR Research Group](https://www.linkedin.com/in/samer-khamaiseh/)
 - [**Deirdre Jost** - Research Assistant](https://www.linkedin.com/in/deirdre-jost-445822228/)
