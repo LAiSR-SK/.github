@@ -4,9 +4,8 @@
 - LAiSR is a dynamic research group led by Dr. Samer Khamaiseh. We are passionately dedicated to exploring and addressing the evolving challenges within the realm of AI security.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/f6b45758-449b-455d-9c53-c418089b252c" />
+  <img src="https://github.com/user-attachments/assets/1f0a117e-b3c8-4758-a62d-c3ae2fabd191" />
 </p>
-
 
 # 👥 Our Team
 - [**Dr. Samer Khamaiseh** - Director of LAiSR Research Group](https://www.linkedin.com/in/samer-khamaiseh/)
