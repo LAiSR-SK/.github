@@ -4,8 +4,7 @@
 </p>
 
 **Welcome to the Laboratory of AI Security Research (LAiSR) at Miami University.**
-# 🎤 Who we are? 
-At [Your University’s Name], 
+# 🎤 Who we are?  
 LAiSR is a dynamic research group led by Dr. Samer Khamaiseh. We are passionately dedicated to exploring and addressing the evolving challenges within the realm of AI security. Our AI Research Laboratory is at the forefront of cutting-edge research to fortify AI models against adversarial attacks, enhance their robustness, and ensure their reliability in real-world scenarios.
 
 # 🔎 Research Focus
