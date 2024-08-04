@@ -11,7 +11,7 @@ The rapid proliferation of artificial intelligence (AI) has revolutionized our w
 - Ethical Implications: AI decisions impact individuals and societies. Bias, fairness, and transparency are ethical concerns. Research informs guidelines and policies that promote responsible AI deployment, minimizing harm and maximizing benefits.
 
 # 🎤 Who we are? 
-LAiSR is a dynamic research group led by Dr. Samer Khamaiseh. We are passionately dedicated to exploring and addressing the evolving challenges within the realm of AI security. Our AI Research Laboratory is at the forefront of cutting-edge research to fortify AI models against adversarial attacks, enhance their robustness, and ensure their reliability in real-world scenarios.
+**LAiSR** is a dynamic research group led by **Dr. Samer Khamaiseh**. We are passionately dedicated to exploring and addressing the evolving challenges within the realm of AI security. Our AI Research Laboratory is at the forefront of cutting-edge research to fortify AI models against adversarial attacks, enhance their robustness, and ensure their reliability in real-world scenarios.
 
 # 🔎 Research Focus
 - **Robustness:** We delve into techniques that make AI models resilient to perturbations, adversarial examples, and distribution shifts.
