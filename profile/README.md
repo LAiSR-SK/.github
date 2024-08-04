@@ -5,7 +5,7 @@
 
 ## **Welcome to the Laboratory of AI Security Research (LAiSR) at Miami University.**
 The rapid proliferation of artificial intelligence (AI) has revolutionized our world, but it also brings forth critical security challenges. As organizations harness AI’s power, they must grapple with new vulnerabilities and potential risks. From automated cyberattacks to disinformation campaigns, the stakes are high.
-## Why researching in AI securtiy important?
+## Why researching in **AI securtiy** is of paramount importanc?
 - Emerging Threats: As AI systems become more pervasive, so do the risks. From adversarial attacks on machine learning models to privacy breaches, understanding and mitigating these threats is crucial. Researchers play a pivotal role in uncovering vulnerabilities and devising robust defenses.
 - Safeguarding Critical Systems: AI is increasingly integrated into critical infrastructure, healthcare, finance, and defense. Ensuring the security of these systems is non-negotiable. Rigorous research helps prevent catastrophic failures and protects lives and livelihoods.
 - Ethical Implications: AI decisions impact individuals and societies. Bias, fairness, and transparency are ethical concerns. Research informs guidelines and policies that promote responsible AI deployment, minimizing harm and maximizing benefits.
