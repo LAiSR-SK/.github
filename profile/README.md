@@ -18,8 +18,6 @@ The rapid proliferation of artificial intelligence (AI) has revolutionized our w
 - **Security:** Exploring defenses against attacks, privacy preservation, and secure AI deployment.
 - **AI Ethics:** Investigate fairness, bias mitigation, and transparency in AI systems.
 
-# 🌟 Notable Achievements:[TODO]
-
 # 🚀 Projects
 ### Fool-X
 [Add descreption]
