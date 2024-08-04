@@ -1,18 +1,19 @@
 # [AI Security Research Lab at Miami University](https://miamioh.edu/profiles/cec/samer-khamaiseh.html)
-**Welcome to the official GitHub repository of the Laboratory of AI Security Research(LAiSR) group at Miami University.**
-- Here, we explore cutting-edge research in AI security.
-- LAiSR is a dynamic research group led by Dr. Samer Khamaiseh. We are passionately dedicated to exploring and addressing the evolving challenges within the realm of AI security.
-
 <p align="center">
   <img src="https://github.com/user-attachments/assets/02dae6e8-da7e-4c07-b5fe-4013d2d4dda6" width = 512 />
 </p>
 
-# 👥 Our Team
-- [**Dr. Samer Khamaiseh** - Director of LAiSR Research Group](https://www.linkedin.com/in/samer-khamaiseh/)
-- [**Deirdre Jost** - Research Assistant](https://www.linkedin.com/in/deirdre-jost-445822228/)
-- [**Steven Chiacchira** - Research Assistant](https://www.linkedin.com/in/steven-chiacchira)
-- [**Aibak Aljadayah** - Research Assistant](https://www.linkedin.com/in/aibak-aljadayah)
-- [**Azib Farooq** - Research Assistant](https://www.linkedin.com/in/itsazibfarooq/)
+**Welcome to the Laboratory of AI Security Research (LAiSR) at Miami University.**
+# 🎤 Who we are? 
+At [Your University’s Name], 
+LAiSR is a dynamic research group led by Dr. Samer Khamaiseh. We are passionately dedicated to exploring and addressing the evolving challenges within the realm of AI security. Our AI Research Laboratory is at the forefront of cutting-edge research to fortify AI models against adversarial attacks, enhance their robustness, and ensure their reliability in real-world scenarios.
+
+# 🔎 Research Focus
+- **Robustness: We delve into techniques that make AI models resilient to perturbations, adversarial examples, and distribution shifts.
+- **Security: Exploring defenses against attacks, privacy preservation, and secure AI deployment.
+- **AI Ethics: Investigate fairness, bias mitigation, and transparency in AI systems.
+
+# 🌟 Notable Achievements:[TODO]
 
 # 🚀 Projects
 ### Fool-X
@@ -29,19 +30,17 @@ A novel method for adversarial training.
 ### VariousAttacks
 A novel method for adversarial training.
 
-
-## 📸 Gallery
+# 📸 Gallery
 <p float="left">
   <img src="https://github.com/user-attachments/assets/4ba8d1d0-b732-4747-b661-1c281e240ff6" width="224" />
 </p>
 
-
-## 🎯 Our Vision
-- **Pioneering Security Solutions for a World Powered by AI:** We delve into cutting-edge research, developing robust and innovative security mechanisms for AI systems, ensuring their integrity, reliability, and resilience.
-
-- **Fostering Collaboration and Knowledge Exchange:** We actively engage in the broader research community, fostering open communication and sharing our findings to accelerate advancements in the field.
-
-- **Cultivating the Next Generation of AI Security Experts:** We are committed to mentoring and training the next generation of researchers and practitioners, equipping them with the expertise and skills necessary to safeguard the future of AI.
+# 👥 Our Team
+- [**Dr. Samer Khamaiseh** - Director of LAiSR Research Group](https://www.linkedin.com/in/samer-khamaiseh/)
+- [**Deirdre Jost** - Research Assistant](https://www.linkedin.com/in/deirdre-jost-445822228/)
+- [**Steven Chiacchira** - Research Assistant](https://www.linkedin.com/in/steven-chiacchira)
+- [**Aibak Aljadayah** - Research Assistant](https://www.linkedin.com/in/aibak-aljadayah)
+- [**Azib Farooq** - Research Assistant](https://www.linkedin.com/in/itsazibfarooq/)
 
 
 ## 📫 Reach us 
