@@ -3,34 +3,31 @@
   <img src="https://github.com/user-attachments/assets/02dae6e8-da7e-4c07-b5fe-4013d2d4dda6" width = 512 />
 </p>
 
-# 👋 **Welcome to the Laboratory of AI Security Research (LAiSR) at Miami University.**
+## 👋 **Welcome to the Laboratory of AI Security Research (LAiSR) at Miami University.**
 The rapid proliferation of artificial intelligence (AI) has revolutionized our world, but it also brings forth critical security challenges. As organizations harness AI’s power, they must grapple with new vulnerabilities and potential risks. From automated cyberattacks to disinformation campaigns, the stakes are high.
-# ❓ Why researching in **AI securtiy** is of paramount importanc?
+## ❓ Why researching in **AI securtiy** is of paramount importanc?
 - Emerging Threats: As AI systems become more pervasive, so do the risks. From adversarial attacks on machine learning models to privacy breaches, understanding and mitigating these threats is crucial. Researchers play a pivotal role in uncovering vulnerabilities and devising robust defenses.
 - Safeguarding Critical Systems: AI is increasingly integrated into critical infrastructure, healthcare, finance, and defense. Ensuring the security of these systems is non-negotiable. Rigorous research helps prevent catastrophic failures and protects lives and livelihoods.
 - Ethical Implications: AI decisions impact individuals and societies. Bias, fairness, and transparency are ethical concerns. Research informs guidelines and policies that promote responsible AI deployment, minimizing harm and maximizing benefits.
 
-# 🎤 Who we are? 
+## 🎤 Who we are? 
 **LAiSR** is a dynamic research group led by **Dr. Samer Khamaiseh**. We are passionately dedicated to exploring and addressing the evolving challenges within the realm of AI security. Our AI Research Laboratory is at the forefront of cutting-edge research to fortify AI models against adversarial attacks, enhance their robustness, and ensure their reliability in real-world scenarios.
 
-# 🔎 Research Focus
+## 🔎 Research Focus
 - **Robustness:** We delve into techniques that make AI models resilient to perturbations, adversarial examples, and distribution shifts.
 - **Security:** Exploring defenses against attacks, privacy preservation, and secure AI deployment.
 - **AI Ethics:** Investigate fairness, bias mitigation, and transparency in AI systems.
 
-# 🚀 Projects
-### Fool-X
+## 🚀 Projects
+### **Fool-X**
 [Add descreption]
-[Link to the project](#)
-### Image Patriot
+### **Image Patriot**
 [Add descreption]
-[Link to the project](#)
-### target-X
+### **target-X**
 [Add descreption]
-[link to the project](https://github.com/LAiSR-SK/target-x)
-### ADT++
+### **ADT++**
 A novel method for adversarial training.
-### VariousAttacks
+### **VariousAttacks**
 A novel method for adversarial training.
 
 # 📸 Gallery
