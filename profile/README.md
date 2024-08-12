@@ -32,9 +32,8 @@ A novel method for adversarial training.
 
 # 📸 Gallery
 <p float="left">
-  <img src="https://github.com/user-attachments/assets/4ba8d1d0-b732-4747-b661-1c281e240ff6" width="224" />
-  <img src="https://github.com/user-attachments/assets/4f909a2b-acf4-4ee4-bc40-332998b256ee" width="224"/>
-"
+  <img src="https://github.com/user-attachments/assets/4ba8d1d0-b732-4747-b661-1c281e240ff6" width="224" height="324" />
+  <img src="https://github.com/user-attachments/assets/4f909a2b-acf4-4ee4-bc40-332998b256ee" width="224" height="324"/>
 </p>
 
 # 👥 Our Team
