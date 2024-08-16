@@ -1,7 +1,4 @@
 # [AI Security Research Lab at Miami University](https://miamioh.edu/profiles/cec/samer-khamaiseh.html)
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/02dae6e8-da7e-4c07-b5fe-4013d2d4dda6" width = 512 />
-</p>
 
 ## 👋 **Welcome to the Laboratory of AI Security Research (LAiSR) at Miami University.**
 The rapid proliferation of artificial intelligence (AI) has revolutionized our world, but it also brings forth critical security challenges. As organizations harness AI’s power, they must grapple with new vulnerabilities and potential risks. From automated cyberattacks to disinformation campaigns, the stakes are high.
@@ -33,9 +30,6 @@ A novel method for adversarial training.
 # 📸 Gallery
 <p float="left">
   <img src="https://github.com/user-attachments/assets/4ba8d1d0-b732-4747-b661-1c281e240ff6" width="224" height="300" />
-  <img src="https://github.com/user-attachments/assets/4f909a2b-acf4-4ee4-bc40-332998b256ee" width="224" height="300"/>
-  <img src="https://github.com/user-attachments/assets/54a687f3-e39a-410c-b188-b166daa1566a" witdth="224" height="300"/> 
-
 </p>
 
 # 👥 Our Team
