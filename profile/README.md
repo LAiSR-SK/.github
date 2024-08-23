@@ -7,7 +7,7 @@ Located at Miami University and led by **Dr. Samer Khamaiseh**. **LAiSR** resear
 
 
 ## ❓ Why **AI securtiy**?
-- Emerging Threats: As AI systems become more pervasive, AI systems introduce new vulerabilites such as adversarial attacks and privacy breaches. Our Research group plays a pivotal role in uncovering vulnerabilities and devising robust defenses.
+- Emerging Threats: As AI systems become more pervasive, they introduce new vulerabilites such as adversarial attacks and privacy breaches. Our Research group plays a pivotal role in uncovering vulnerabilities and devising robust defenses.
 - Safeguarding Critical Systems: AI is increasingly integrated into critical infrastructure, healthcare, finance, and defense. Ensuring the security of these systems is non-negotiable. Rigorous research helps prevent catastrophic failures and protects lives and livelihoods.
 - Ethical Implications: AI decisions impact individuals and societies. Bias, fairness, and transparency are ethical concerns. Research informs guidelines and policies that promote responsible AI deployment, minimizing harm and maximizing benefits.
 
