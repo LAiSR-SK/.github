@@ -3,11 +3,11 @@
 ## 👋 **Welcome to the Laboratory of AI Security Research (LAiSR) **
 
 ## 🎤 Who we are? 
-Located at Miami University and led by **Dr. Samer Khamaiseh**. **LAiSR** research is passionate about exploring and addressing the evolving challenges within the realm of AI security. Our AI Research Laboratory is at the forefront of cutting-edge research to fortify AI models against adversarial attacks, enhance their robustness, and ensure their reliability in real-world scenarios.
+Located at Miami University and led by **Dr. Samer Khamaiseh**. **LAiSR** research group is passionate about exploring and addressing the evolving challenges within the realm of AI security. Our AI Research Laboratory is at the forefront of cutting-edge research to fortify AI models against adversarial attacks, enhance their robustness, and ensure their reliability in real-world scenarios.
 
 
-## ❓ Why is **AI securtiy** research paramount?
-- Emerging Threats: As AI systems become more pervasive, so do the risks. From adversarial attacks on machine learning models to privacy breaches, understanding and mitigating these threats is crucial. Researchers play a pivotal role in uncovering vulnerabilities and devising robust defenses.
+## ❓ Why **AI securtiy**?
+- Emerging Threats: As AI systems become more pervasive, AI systems introduce new vulerabilites such as adversarial attacks and privacy breaches. Our Research group plays a pivotal role in uncovering vulnerabilities and devising robust defenses.
 - Safeguarding Critical Systems: AI is increasingly integrated into critical infrastructure, healthcare, finance, and defense. Ensuring the security of these systems is non-negotiable. Rigorous research helps prevent catastrophic failures and protects lives and livelihoods.
 - Ethical Implications: AI decisions impact individuals and societies. Bias, fairness, and transparency are ethical concerns. Research informs guidelines and policies that promote responsible AI deployment, minimizing harm and maximizing benefits.
 
