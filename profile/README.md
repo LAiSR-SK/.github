@@ -19,11 +19,17 @@ Located at Miami University and led by Dr. Samer Khamaiseh. **LAiSR** research g
 
 
 ## 🚀 Projects
-### **Fool-X**
-[Add descreption]
-### **Image Patriot**
-[Add descreption]
-### **target-X**
+### **AI Robustness Testing Kit (AiR-TK)**
+AI Robustness Testing Kit (AiR-TK) is an AI testing framework built upon PyTorch that enables the AI security community to evaluate the AI models against adversarial attacks easily and comprehensively. Furthermore, Air-TK supports adversarial training, the de-facto technique to improve the robustness of AI models against adversarial attacks. Having easy access to state-of-the-art adversarial attacks and the baseline adversarial training method in one place will help the AI security community to replicate, re-use, and improve the upcoming attacks and defense methods
+
+### Image Patriot ###
+
+### **T2I-Vanguard: Post Generation Filter for Safe Text-2-Image Diffusion Models Generation** ###
+
+### **Fool 'Em All --- Fool-X: A Powerful & Fast Method for Generating Effective Adversarial Images**
+Fool-X, an algorithm to generate **effective adversarial examples** with the least perturbations that can fool state-of-the-art image classification neural. More detailes avaiable on project site. (under-Review of IEEE-BigData 2024)
+
+### **Target-X: An Efficient Algorithm for Generating Targeted Adversarial Images to Fool Neural Networks **
 [Add descreption]
 ### **ADT++**
 A novel method for adversarial training.
