@@ -26,7 +26,7 @@ AI Robustness Testing Kit (AiR-TK) is an AI testing framework built upon PyTorch
 
 ## [ImagePatriot: Few Pixels is Enough to Protect Images from Generative Models](https://github.com/LAiSR-SK/ImagePatriot) 
 
-## **T2I-Vanguard: Post Generation Filter for Safe Text-2-Image Diffusion Models Generation** ###
+## **[T2I-Vanguard: Post Generation Filter for Safe Text-2-Image Diffusion Models Generation](https://github.com/LAiSR-SK/T2IVanguard)**
 
 ## **Fool 'Em All --- Fool-X: A Powerful & Fast Method for Generating Effective Adversarial Images**
 Fool-X, an algorithm to generate **effective adversarial examples** with the least perturbations that can fool state-of-the-art image classification neural. More detailes avaiable on project site. (under-Review of IEEE-BigData 2024)
