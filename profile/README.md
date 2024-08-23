@@ -13,8 +13,8 @@ Located at Miami University and led by Dr. Samer Khamaiseh. **LAiSR** research g
 
 
 ## 🔎 Research Focus
-- **Robustness:** We delve into techniques that make AI models resilient to perturbations, adversarial examples, and distribution shifts.
-- **Security:** Exploring defenses against attacks, privacy preservation, and secure AI deployment.
+- **Adversarial Attacks:** Our goal is to explore new adversarial attacks against AI modesl. The LAiSR group has introduced *3* noval adversarial attacks such as Target-X, Fool-X, and T2I-Nightmare
+- **Adversarial Training:** Exploring defenses against attacks, privacy preservation, and secure AI deployment.
 - **AI Ethics:** Investigate fairness, bias mitigation, and transparency in AI systems.
 
 ## 🚀 Projects
