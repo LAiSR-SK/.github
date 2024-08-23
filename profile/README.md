@@ -5,17 +5,18 @@
 ## 🎤 Who we are? 
 Located at Miami University and led by Dr. Samer Khamaiseh. **LAiSR** research group is passionate about exploring and addressing the evolving challenges within the realm of AI security. Our AI Research Laboratory is at the forefront of cutting-edge research to fortify AI models against adversarial attacks, enhance their robustness, and ensure their reliability in real-world scenarios.
 
-
-## ❓ Why **AI securtiy**?
-- Emerging Threats: As AI systems become more pervasive, they introduce new vulerabilites such as adversarial attacks and privacy breaches. Our Research group plays a pivotal role in uncovering vulnerabilities and devising robust defenses.
+## ❓ Why **AI security**?
+- Emerging Threats: As AI systems become more pervasive, they introduce new vulnerabilities such as adversarial attacks and privacy breaches. Our Research group plays a pivotal role in uncovering vulnerabilities and devising robust defenses.
 - Safeguarding Critical Systems: AI is increasingly integrated into critical infrastructure, healthcare, finance, and defense. Ensuring the security of these systems is non-negotiable. Rigorous research helps prevent catastrophic failures and protects lives and livelihoods.
 - Ethical Implications: AI decisions impact individuals and societies. Bias, fairness, and transparency are ethical concerns. Research informs guidelines and policies that promote responsible AI deployment, minimizing harm and maximizing benefits.
 
 
 ## 🔎 Research Focus
-- **Adversarial Attacks:** Our goal is to explore new adversarial attacks against AI modesl. The LAiSR group has introduced *3* noval adversarial attacks such as Target-X, Fool-X, and T2I-Nightmare
-- **Adversarial Training:** Exploring defenses against attacks, privacy preservation, and secure AI deployment.
-- **AI Ethics:** Investigate fairness, bias mitigation, and transparency in AI systems.
+- **Adversarial Attacks:** Our goal is to explore new adversarial attacks against AI models. The LAiSR group has introduced *3* novel adversarial attacks such as Target-X, Fool-X, and T2I-Nightmare
+- **Adversarial Training:** Exploring defense methods against adversarial attacks. Recently, LAiSR groups introduced the **VA: Various Attacks Framework for Robust Adversarial Training** & **ADT++: Advanced Adversarial Distributional Training with Class Robustness**. 
+- **GEN-AI:** Investigate SOTA methods to protect user images from being misused by diffusion models. For example, the LAiSR group proposed **ImagePatroit(Under_Review)** that prevents diffusion models from maliciously adjusting images.
+-**GEN-AI Robustness**: Explore the pre and post-generation filters to protect Diffusion models from generating Not-Safe-for-Work (NSFW) contents. **T2I-Vanguard: Post Generation Filter for Safe Text-2-Image Diffusion Models Generation** that prevents T2I attacks from compromising the generation process of T2I diffusion models to produce NSFW images.
+
 
 ## 🚀 Projects
 ### **Fool-X**
