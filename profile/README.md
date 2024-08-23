@@ -22,26 +22,39 @@ Located at Miami University and led by Dr. Samer Khamaiseh. **LAiSR** research g
 Below, we list some of the published and ongoing research project at LAiSR lab.
 
 ## **[AI Robustness Testing Kit (AiR-TK)](https://github.com/LAiSR-SK/AiRobustnessTestingKit-AiR-TK-)**
-AI Robustness Testing Kit (AiR-TK) is an AI testing framework built upon PyTorch that enables the AI security community to evaluate the AI models against adversarial attacks easily and comprehensively. Furthermore, Air-TK supports adversarial training, the de-facto technique to improve the robustness of AI models against adversarial attacks. Having easy access to state-of-the-art adversarial attacks and the baseline adversarial training method in one place will help the AI security community to replicate, re-use, and improve the upcoming attacks and defense methods
+AI Robustness Testing Kit (AiR-TK) is an AI testing framework built upon PyTorch that enables the AI security community to evaluate the AI models against adversarial attacks easily and comprehensively. Air-TK supports adversarial training, the de-facto technique to improve the robustness of AI models against adversarial attacks. Having easy access to state-of-the-art adversarial attacks and the baseline adversarial training method in one place will help the AI security community to replicate, re-use, and improve the upcoming attacks and defense methods
 
-## [ImagePatriot: Few Pixels is Enough to Protect Images from Generative Models](https://github.com/LAiSR-SK/ImagePatriot) 
+## **[ImagePatriot: Few Pixels is Enough to Protect Images from Generative Models](https://github.com/LAiSR-SK/ImagePatriot)**
+By adding some magic to few pixles, ImagePatriot protect your image to be manipulated by diffusion models. 
 
 ## **[T2I-Vanguard: Post Generation Filter for Safe Text-2-Image Diffusion Models Generation](https://github.com/LAiSR-SK/T2IVanguard)**
 
-## **Fool 'Em All --- Fool-X: A Powerful & Fast Method for Generating Effective Adversarial Images**
+JPA, NightShade, and MMA are recent attacks against Text-2-Image diffusion models to generate Not Safe for Work(NSFW) images despit the pre/post filters. T2I-Vanguard is an ongoing project that aim to provide a shield for T2I models from being compromised by such attacks.
+
+
+## **[Fool 'Em All --- Fool-X: A Powerful & Fast Method for Generating Effective Adversarial Images](https://github.com/LAiSR-SK/fool-x)**
 Fool-X, an algorithm to generate **effective adversarial examples** with the least perturbations that can fool state-of-the-art image classification neural. More detailes avaiable on project site. (under-Review of IEEE-BigData 2024)
 
-## **Target-X: An Efficient Algorithm for Generating Targeted Adversarial Images to Fool Neural Networks **
-[Add descreption]
-## **ADT++**
-A novel method for adversarial training.
-## **VariousAttacks**
-A novel method for adversarial training.
+## **[Target-X: An Efficient Algorithm for Generating Targeted Adversarial Images to Fool Neural Networks](https://github.com/LAiSR-SK/target-x) **
+Target-X, a novel and fast method for the construction of adversarial targeted images on large-scale datasets that can fool the state-of-the-art image classification neural networks. More info available on the project Repo.
 
-# 📸 Gallery
-<p float="left">
-  <img src="https://github.com/user-attachments/assets/4ba8d1d0-b732-4747-b661-1c281e240ff6" width="224" height="300" />
-</p>
+## **[ADT++: Advanced Adversarial Distributional Training for AI Robustness](https://github.com/LAiSR-SK/ADT2Plus)**
+ADT++ provides a fast adversarial training method for AI models to increase thier generlization robustness against more adaptive adversarial attacks such as Target-X and AutoAttack(AA).  
+
+## **[VA: Various Attacks Framework for Robust Adversarial Training](https://github.com/LAiSR-SK/VariousAttacks)**
+By expolaring the class robustness, VA can be used to increase the robustness of AI models against varity of adversarail attacks. Specfically, gradient-based attacks
+
+
+
+# 📸 Snapshots: Some fun pics from our research projects
+
+[Steven and Aibak please add some pic by mentions the project name and then a pic. Add for Target-X, Fool-X, and ImagePatriot]
+
+
+
+
+
+
 
 # 👥 Our Team
 - [**Dr. Samer Khamaiseh** - Director of LAiSR Research Group](https://www.linkedin.com/in/samer-khamaiseh/)
@@ -53,7 +66,7 @@ A novel method for adversarial training.
 
 ## 📫 Reach us 
 This GitHub account serves as a hub for our ongoing projects, publications, and collaborations. We welcome your engagement and encourage you to explore the exciting frontiers of AI security with us!
-[Contact us here](https://miamioh.edu/profiles/cec/samer-khamaiseh.html)
+[Contact us here](khamaisy@miamioh.edu)
 
 
 
