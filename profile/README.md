@@ -18,22 +18,24 @@ Located at Miami University and led by Dr. Samer Khamaiseh. **LAiSR** research g
 -**GEN-AI Robustness**: Explore the pre and post-generation filters to protect Diffusion models from generating Not-Safe-for-Work (NSFW) contents. **T2I-Vanguard: Post Generation Filter for Safe Text-2-Image Diffusion Models Generation** that prevents T2I attacks from compromising the generation process of T2I diffusion models to produce NSFW images.
 
 
-## 🚀 Projects
-### **AI Robustness Testing Kit (AiR-TK)**
+## 🚀 Research Projects
+Below, we list some of the published and ongoing research project at LAiSR lab.
+
+## **AI Robustness Testing Kit (AiR-TK)**
 AI Robustness Testing Kit (AiR-TK) is an AI testing framework built upon PyTorch that enables the AI security community to evaluate the AI models against adversarial attacks easily and comprehensively. Furthermore, Air-TK supports adversarial training, the de-facto technique to improve the robustness of AI models against adversarial attacks. Having easy access to state-of-the-art adversarial attacks and the baseline adversarial training method in one place will help the AI security community to replicate, re-use, and improve the upcoming attacks and defense methods
 
-### Image Patriot ###
+## Image Patriot
 
-### **T2I-Vanguard: Post Generation Filter for Safe Text-2-Image Diffusion Models Generation** ###
+## **T2I-Vanguard: Post Generation Filter for Safe Text-2-Image Diffusion Models Generation** ###
 
-### **Fool 'Em All --- Fool-X: A Powerful & Fast Method for Generating Effective Adversarial Images**
+## **Fool 'Em All --- Fool-X: A Powerful & Fast Method for Generating Effective Adversarial Images**
 Fool-X, an algorithm to generate **effective adversarial examples** with the least perturbations that can fool state-of-the-art image classification neural. More detailes avaiable on project site. (under-Review of IEEE-BigData 2024)
 
-### **Target-X: An Efficient Algorithm for Generating Targeted Adversarial Images to Fool Neural Networks **
+## **Target-X: An Efficient Algorithm for Generating Targeted Adversarial Images to Fool Neural Networks **
 [Add descreption]
-### **ADT++**
+## **ADT++**
 A novel method for adversarial training.
-### **VariousAttacks**
+## **VariousAttacks**
 A novel method for adversarial training.
 
 # 📸 Gallery
