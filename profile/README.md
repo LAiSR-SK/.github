@@ -12,7 +12,7 @@ Located at Miami University and led by Dr. Samer Khamaiseh. **LAiSR** research g
 
 
 ## 🔎 Research Focus
-- **Adversarial Attacks:** Our goal is to explore new adversarial attacks against AI models. The LAiSR group has introduced *3* novel adversarial attacks such as Target-X, Fool-X, and T2I-Nightmare
+- **Adversarial Attacks:** Our goal is to explore new adversarial attacks against AI models. The LAiSR group has introduced *3* novel adversarial attacks such as Target-X, Fool-X, and T2I-Nightmare attacks.
 - **Adversarial Training:** Exploring defense methods against adversarial attacks. Recently, LAiSR groups introduced the " **VA: Various Attacks Framework for Robust Adversarial Training** & **ADT++: Advanced Adversarial Distributional Training with Class Robustness**" adversarial training methods that promots AI models clean accuracy, roboust accuracy, and robusteness generalization more that the baseline defense methods . 
 - **GEN-AI:** Investigate SOTA methods to protect user images from being misused by diffusion models. For example, the LAiSR group proposed **ImagePatroit(Under_Review)** that prevents diffusion models from maliciously adjusting images.
 -**GEN-AI Robustness**: Explore the pre and post-generation filters to protect Diffusion models from generating Not-Safe-for-Work (NSFW) contents. **T2I-Vanguard: Post Generation Filter for Safe Text-2-Image Diffusion Models Generation** that prevents T2I attacks from compromising the generation process of T2I diffusion models to produce NSFW images.
