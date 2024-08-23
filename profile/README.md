@@ -35,7 +35,7 @@ JPA, NightShade, and MMA are recent attacks against Text-2-Image diffusion model
 ## **[Fool 'Em All --- Fool-X: A Powerful & Fast Method for Generating Effective Adversarial Images](https://github.com/LAiSR-SK/fool-x)**
 Fool-X, an algorithm to generate **effective adversarial examples** with the least perturbations that can fool state-of-the-art image classification neural. More detailes avaiable on project site. (under-Review of IEEE-BigData 2024)
 
-## **[Target-X: An Efficient Algorithm for Generating Targeted Adversarial Images to Fool Neural Networks](https://github.com/LAiSR-SK/target-x) **
+## **[Target-X: An Efficient Algorithm for Generating Targeted Adversarial Images to Fool Neural Networks](https://github.com/LAiSR-SK/target-x)**
 Target-X, a novel and fast method for the construction of adversarial targeted images on large-scale datasets that can fool the state-of-the-art image classification neural networks. More info available on the project Repo.
 
 ## **[ADT++: Advanced Adversarial Distributional Training for AI Robustness](https://github.com/LAiSR-SK/ADT2Plus)**
