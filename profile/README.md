@@ -52,8 +52,11 @@ By expolaring the class robustness, VA can be used to increase the robustness of
 
 
 
-
-
+# Introduction to AI Security
+Interested researchers and scientist can refer to the following resources to start their Journey in AI security.
+- [Adversarial Deep Learning: A Survey on Adversarial Attacks and Defense Mechanisms on Image Classification](https://ieeexplore.ieee.org/abstract/document/9895425)
+- [Target-X: An Efficient Algorithm for Generating Targeted Adversarial Images to Fool Neural Networks](https://ieeexplore.ieee.org/document/10197071)
+- [Adversarial Robustness - Theory and Practice](https://adversarial-ml-tutorial.org/)
 
 
 # 👥 Our Team
