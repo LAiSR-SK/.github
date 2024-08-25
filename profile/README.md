@@ -48,7 +48,7 @@ By expolaring the class robustness, VA can be used to increase the robustness of
 
 # 📸 Snapshots: Some fun pics from our research projects
 
-[Steven and Aibak please add some pic by mentions the project name and then a pic. Add for Target-X, Fool-X, and ImagePatriot]
+
 
 
 
