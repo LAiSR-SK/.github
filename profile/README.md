@@ -1,3 +1,4 @@
+![LAiSR Logo Attempt 2](https://github.com/user-attachments/assets/b1b67d01-82d2-4669-9041-c7df789dbd24)
 # [AI Security Research Lab at Miami University](https://miamioh.edu/profiles/cec/samer-khamaiseh.html)
 
 ## 👋 Welcome to the Laboratory of AI Security Research (LAiSR)
