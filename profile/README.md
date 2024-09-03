@@ -19,7 +19,7 @@ Located at Miami University and led by Dr. Samer Khamaiseh. **LAiSR** research g
 
 
 ## 🚀 Research Projects
-Below, we list some of the published and ongoing research project at LAiSR lab. Please note, some of repo of projects are still private since the project paper is under-review
+Below, we list some of the published and ongoing research project at LAiSR lab. Please note, some of repo of projects are still private since the project papers are under-review
 
 ## **[AI Robustness Testing Kit (AiR-TK)](https://github.com/LAiSR-SK/AiRobustnessTestingKit-AiR-TK-)**
 AI Robustness Testing Kit (AiR-TK) is an AI testing framework built on PyTorch that enables the AI security community to evaluate existing AI image recognition models against adversarial attacks easily and comprehensively. Air-TK supports adversarial training, the de-facto technique to improve the robustness of AI models against adversarial attacks. Having easy access to state-of-the-art adversarial attacks and the baseline adversarial training method in one place will help the AI security community to replicate, re-use, and improve the upcoming attacks and defense methods
