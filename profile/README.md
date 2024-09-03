@@ -15,7 +15,7 @@ Located at Miami University and led by Dr. Samer Khamaiseh. **LAiSR** research g
 - **Adversarial Attacks:** we explore new adversarial attacks against AI models. The LAiSR group has introduced *3* novel adversarial attacks, including Target-X, Fool-X, and T2I-Nightmare.
 - **Adversarial Training:** we explore defense methods against adversarial attacks. Recently, LAiSR introduced the  **VA: Various Attacks Framework for Robust Adversarial Training** and **ADT++: Advanced Adversarial Distributional Training with Class Robustness** adversarial training methods which promote clean accuracy, roboust accuracy, and robusteness generalization more that the baseline defense methods. 
 - **GEN-AI:** we investigate SOTA methods to protect user images from being edited by diffusion models. For example, the LAiSR group proposed **ImagePatroit(Under_Review)** that prevents diffusion models from maliciously adjusting images.
-- **GEN-AI Robustness**: we explore pre and post-generation filters to prevent Diffusion models from generating Not-Safe-for-Work (NSFW) content with **T2I-Vanguard: Post Generation Filter for Safe Text-2-Image Diffusion Models Generation**.
+- **GEN-AI Robustness**: we explore pre and post-generation filters to prevent Diffusion models from generating Not-Safe-for-Work (NSFW) content with **T2I-Vanguard: Post Generation Filter for Safe Text-2-Image Diffusion Models Contents**.
 
 
 ## 🚀 Research Projects
@@ -27,7 +27,7 @@ AI Robustness Testing Kit (AiR-TK) is an AI testing framework built on PyTorch t
 ## **[ImagePatriot: Few Pixels is Enough to Protect Images from Generative Models](https://github.com/LAiSR-SK/ImagePatriot)**
 By adding magic to a few pixels, ImagePatriot protects your image from being manipulated by diffusion models. 
 
-## **[T2I-Vanguard: Post Generation Filter for Safe Text-2-Image Diffusion Models Generation](https://github.com/LAiSR-SK/T2IVanguard)**
+## **[T2I-Vanguard: Post Generation Filter for Safe Text-2-Image Diffusion Models Contents](https://github.com/LAiSR-SK/T2IVanguard)**
 
 JPA, NightShade, and MMA are recent attacks against Text-2-Image diffusion models which generate Not Safe for Work(NSFW) images despite the pre/post filters. T2I-Vanguard is an ongoing project that aims to provide a shield for T2I models from being compromised by such attacks.
 
